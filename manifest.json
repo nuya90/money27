@@ -1,0 +1,38 @@
+{
+  "name": "From Free Crypto To Passive Income",
+  "short_name": "Money27.biz.id",
+  "start_url": "https://www.money27.biz.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "From Free Crypto To Passive Income",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAApvya97D-1NMcEAbXKPhOQQTMlZ08Vh4aJIi5eRkhAUu3H2PrOEMLfnDGGWoMF7gLn7pcCP9Vhh6oQC_9weSAVPHX-Ax7VJPIWnjSI8zmQ9epi48_mt7Kx5XcgsbW85d_Suw_hd9I0AbuVOaVYhPVqzNNvpr2vFj6xNc3c7Xrbaorod79raoB-nW/s48/1490900.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAApvya97D-1NMcEAbXKPhOQQTMlZ08Vh4aJIi5eRkhAUu3H2PrOEMLfnDGGWoMF7gLn7pcCP9Vhh6oQC_9weSAVPHX-Ax7VJPIWnjSI8zmQ9epi48_mt7Kx5XcgsbW85d_Suw_hd9I0AbuVOaVYhPVqzNNvpr2vFj6xNc3c7Xrbaorod79raoB-nW/s72/1490900.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAApvya97D-1NMcEAbXKPhOQQTMlZ08Vh4aJIi5eRkhAUu3H2PrOEMLfnDGGWoMF7gLn7pcCP9Vhh6oQC_9weSAVPHX-Ax7VJPIWnjSI8zmQ9epi48_mt7Kx5XcgsbW85d_Suw_hd9I0AbuVOaVYhPVqzNNvpr2vFj6xNc3c7Xrbaorod79raoB-nW/s96/1490900.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAApvya97D-1NMcEAbXKPhOQQTMlZ08Vh4aJIi5eRkhAUu3H2PrOEMLfnDGGWoMF7gLn7pcCP9Vhh6oQC_9weSAVPHX-Ax7VJPIWnjSI8zmQ9epi48_mt7Kx5XcgsbW85d_Suw_hd9I0AbuVOaVYhPVqzNNvpr2vFj6xNc3c7Xrbaorod79raoB-nW/s144/1490900.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAApvya97D-1NMcEAbXKPhOQQTMlZ08Vh4aJIi5eRkhAUu3H2PrOEMLfnDGGWoMF7gLn7pcCP9Vhh6oQC_9weSAVPHX-Ax7VJPIWnjSI8zmQ9epi48_mt7Kx5XcgsbW85d_Suw_hd9I0AbuVOaVYhPVqzNNvpr2vFj6xNc3c7Xrbaorod79raoB-nW/s168/1490900.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAApvya97D-1NMcEAbXKPhOQQTMlZ08Vh4aJIi5eRkhAUu3H2PrOEMLfnDGGWoMF7gLn7pcCP9Vhh6oQC_9weSAVPHX-Ax7VJPIWnjSI8zmQ9epi48_mt7Kx5XcgsbW85d_Suw_hd9I0AbuVOaVYhPVqzNNvpr2vFj6xNc3c7Xrbaorod79raoB-nW/s192/1490900.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAApvya97D-1NMcEAbXKPhOQQTMlZ08Vh4aJIi5eRkhAUu3H2PrOEMLfnDGGWoMF7gLn7pcCP9Vhh6oQC_9weSAVPHX-Ax7VJPIWnjSI8zmQ9epi48_mt7Kx5XcgsbW85d_Suw_hd9I0AbuVOaVYhPVqzNNvpr2vFj6xNc3c7Xrbaorod79raoB-nW/s512/1490900.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
